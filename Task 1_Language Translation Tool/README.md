@@ -18,6 +18,7 @@ Local Installation & Setup
 
 1. Clone the Repository:
    git clone https://github.com/dharanimahazy/CodeAlpha_Projects/tree/main/Task%201_Language%20Translation%20Tool
+
    cd Task 1_Language Translation Tool
 
 2. Install Required Extensions:
