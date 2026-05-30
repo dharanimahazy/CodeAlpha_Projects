@@ -17,9 +17,10 @@ Tech Stack & Dependencies
 Local Installation & Setup
 
 1. Clone the Repository:
-   git clone https://github.com/dharanimahazy/CodeAlpha_Projects/tree/main/Task%201_Language%20Translation%20Tool
+   git clone https://github.com/dharanimahazy/CodeAlpha_Projects.git
 
-   cd Task 1_Language Translation Tool
+
+   cd "Task 1_Language Translation Tool"
 
 2. Install Required Extensions:
    pip install -r requirements.txt
