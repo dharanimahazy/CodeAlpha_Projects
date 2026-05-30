@@ -17,7 +17,7 @@ Tech Stack & Dependencies
 Local Installation & Setup
 
 1. Clone the Repository:
-   git clone https://github.com/dharanimahazy/CodeAlpha_Projects.git
+   git clone https://github.com/dharanimahazy/CodeAlpha_Projects/Task 1_Language Translation Tool.git
 
 
    cd "Task 1_Language Translation Tool"
